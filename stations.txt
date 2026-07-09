@@ -1,0 +1,2 @@
+CT01|CHITWAN CENTER|10|2
+C01|chitwan|10|0

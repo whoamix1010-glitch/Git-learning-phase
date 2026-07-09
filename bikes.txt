@@ -1,0 +1,2 @@
+Y01|rented|CT01|0
+Y02|rented|CT01|0
